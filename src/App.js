@@ -14,7 +14,10 @@ export default function App() {
           <Dictionary />
         </main>
         <footer className="App-footer">
-          <small>Coded by 👩🏻‍💻 Lorena Parreno</small>
+          <small>
+            This project was coded by <a href="https://github.com/lorenaparreno" target="_blank" rel="noopener noreferrer">Lorena Parreno</a> 👩🏻‍💻
+            and is open-sourced on <a href="https://github.com/lorenaparreno/dictionary-project" target="_blank" rel="noopener noreferrer">Github</a> and hosted on <a href="https://github.com/lorenaparreno/dictionary-project" target="_blank" rel="noopener noreferrer">Netlify</a>.
+          </small>
         </footer>
       </div>
     </div>
