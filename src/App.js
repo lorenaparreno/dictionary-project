@@ -16,7 +16,7 @@ export default function App() {
         <footer className="App-footer">
           <small>
             This project was coded by <a href="https://github.com/lorenaparreno" target="_blank" rel="noopener noreferrer">Lorena Parreno</a> 👩🏻‍💻
-            and is open-sourced on <a href="https://react-dictionary-proj-addon-wk1-hmwk.netlify.app/" target="_blank" rel="noopener noreferrer">Github</a> and hosted on <a href="https://github.com/lorenaparreno/dictionary-project" target="_blank" rel="noopener noreferrer">Netlify</a>.
+            and is open-sourced on <a href="https://github.com/lorenaparreno/dictionary-project" target="_blank" rel="noopener noreferrer">Github</a> and hosted on <a href="https://react-dictionary-proj-addon-wk1-hmwk.netlify.app/" target="_blank" rel="noopener noreferrer">Netlify</a>.
           </small>
         </footer>
       </div>
