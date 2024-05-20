@@ -11,12 +11,12 @@ export default function App() {
           <img src={logo} className="App-logo img-fluid" alt="logo" />
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="sunset" />
         </main>
         <footer className="App-footer">
           <small>
             This project was coded by <a href="https://github.com/lorenaparreno" target="_blank" rel="noopener noreferrer">Lorena Parreno</a> 👩🏻‍💻
-            and is open-sourced on <a href="https://app.netlify.com/sites/react-dictionary-proj-wk1-hmwk-addon/overview" target="_blank" rel="noopener noreferrer">Github</a> and hosted on <a href="https://github.com/lorenaparreno/dictionary-project" target="_blank" rel="noopener noreferrer">Netlify</a>.
+            and is open-sourced on <a href="https://react-dictionary-proj-addon-wk1-hmwk.netlify.app/" target="_blank" rel="noopener noreferrer">Github</a> and hosted on <a href="https://github.com/lorenaparreno/dictionary-project" target="_blank" rel="noopener noreferrer">Netlify</a>.
           </small>
         </footer>
       </div>
